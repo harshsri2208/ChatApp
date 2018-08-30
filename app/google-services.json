@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "518706853647",
+    "firebase_url": "https://mychat-9eda2.firebaseio.com",
+    "project_id": "mychat-9eda2",
+    "storage_bucket": "mychat-9eda2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518706853647:android:4574e3cf705bda64",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518706853647-ncs979uu3otok12o24va0edvlf7uv6fl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.mychat",
+            "certificate_hash": "9b0109f62c3a18cb4b393fca964b3c99ed1512b1"
+          }
+        },
+        {
+          "client_id": "518706853647-cbj8s4r0nja4t9bjo38shlqsjbia9r2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMrrYEEXieJHqIf8ki8CKl7Yj7w0RP_Ys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518706853647-cbj8s4r0nja4t9bjo38shlqsjbia9r2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
